@@ -1,4 +1,4 @@
-# 🌦️ Premium Weather App
+# 🌦️ Weather App
 <img width="1200" height="838" alt="image" src="https://github.com/user-attachments/assets/895fb686-7687-47e3-bbfb-ea533522362f" />
 
 
